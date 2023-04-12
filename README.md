@@ -1,6 +1,9 @@
 # AP-157-dump
 ## Computational Analysis and Modeling in Physics
 Currently taking this class under Ma'am May Lim, PhD and Sir  Louie John Rubio.
+
+Verbatim description: "Computational models in physics; numerical simulations of physical systems; stochastic simulation and algorithms; image
+processing; multidimensional detection techniques; pattern recognition"
  
 ### Reference(s)
 1. Kinzel, W., Reents, G., & Clajus, M. (1998). Physics by computer: programming physical problems using Mathematica and C (pp. I-VIII). Springer.
